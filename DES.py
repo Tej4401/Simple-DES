@@ -1,4 +1,4 @@
-def permutation(p10=[],ten_key=[]):
+def permutation(p10,ten_key):
     p10_key=[]
     a=0
     for i in range(0,len(p10)):
